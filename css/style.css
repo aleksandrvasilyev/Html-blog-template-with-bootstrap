@@ -1,0 +1,4 @@
+.img-post:hover {
+    filter: alpha(Opacity=93);
+    opacity: 0.93;
+}
